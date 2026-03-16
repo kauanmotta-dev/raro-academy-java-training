@@ -1,38 +1,33 @@
-# Raro Academy - Java Training
+# Portfólio Profissional
 
-This repository documents my learning journey during the Java backend training program at Raro Academy.
+Este repositório é uma coleção de projetos desenvolvidos como parte do treinamento em Java. Cada módulo inclui projetos que abrangem diferentes aspectos da programação em Java e suas aplicações.
 
-The goal of this repository is to keep a structured record of the exercises and projects developed while studying core backend development concepts.
+## Objetivo do Repositório
+O objetivo deste repositório é fornecer um portfólio profissional para demonstrar habilidades em Java, bem como a capacidade de construir aplicações robustas.
 
-This repository focuses on the **learning process**, not production-ready systems.
-
-## Topics Covered
-
-During the training, the following topics were studied:
-
-- Java fundamentals
-- Object-Oriented Programming
-- Design Patterns
-- REST API development with Spring Boot
-- Clean code practices
-
-## Repository Structure
-
-| Folder | Description |
-|------|-------------|
-| ProgramacaoOrientadaAObjetos | Exercises focused on object oriented programming concepts |
-| PadraoDeProjetos | Implementations of common design patterns |
-| calculadora | Basic calculator application developed in Java |
-| VendingMachine | Console application simulating a vending machine |
-| Product | REST API built with Spring Boot |
-
-## Technologies Used
-
-- Java
-- Spring Boot
+## Tecnologias Utilizadas
+- Java 11
 - Maven
+- Spring Boot
 - JUnit
+- Hibernate
+- MySQL
 
-## Purpose of this Repository
+## Estrutura do Repositório
+O repositório é organizado em diferentes módulos, cada um com seu respectivo projeto:
 
-This repository exists to document the learning process during the Raro Academy program and demonstrate the progression of technical knowledge throughout the training.
+- **Módulo 1: Introdução ao Java**  
+  [Projeto 1 - Calculadora](https://linktoproject1)  
+  [Projeto 2 - Jogo da Adivinhação](https://linktoproject2)
+
+- **Módulo 2: Programação Orientada a Objetos**  
+  [Projeto 1 - Sistema de Biblioteca](https://linktoproject3)
+
+- **Módulo 3: Trabalhando com APIs**  
+  [Projeto 1 - Consumindo APIs Externas](https://linktoproject4)
+
+## Navegando pelos Projetos
+Cada pasta de projeto contém um README seu próprio, onde você pode encontrar instruções sobre como executar e testar o projeto.
+
+## Contribuições
+Sinta-se à vontade para abrir issues ou pull requests se você tiver melhorias ou sugestões!  
