@@ -1,33 +1,53 @@
-# Portfólio Profissional
+# 🎓 Raro Academy - Treinamento em Java
 
-Este repositório é uma coleção de projetos desenvolvidos como parte do treinamento em Java. Cada módulo inclui projetos que abrangem diferentes aspectos da programação em Java e suas aplicações.
+Bem-vindo ao meu portfólio de aprendizado! Este repositório documenta minha jornada de estudos durante o programa de treinamento em desenvolvimento backend na **Raro Academy**.
 
-## Objetivo do Repositório
-O objetivo deste repositório é fornecer um portfólio profissional para demonstrar habilidades em Java, bem como a capacidade de construir aplicações robustas.
+## 📚 Sobre este Repositório
 
-## Tecnologias Utilizadas
-- Java 11
-- Maven
-- Spring Boot
-- JUnit
-- Hibernate
-- MySQL
+Este é um registro estruturado dos exercícios e projetos desenvolvidos enquanto estudava conceitos fundamentais de desenvolvimento backend com Java. O foco é documentar o **processo de aprendizado** e a evolução técnica ao longo do treinamento.
 
-## Estrutura do Repositório
-O repositório é organizado em diferentes módulos, cada um com seu respectivo projeto:
+## 🏗️ Estrutura do Repositório
 
-- **Módulo 1: Introdução ao Java**  
-  [Projeto 1 - Calculadora](https://linktoproject1)  
-  [Projeto 2 - Jogo da Adivinhação](https://linktoproject2)
+Explore os diferentes módulos e projetos desenvolvidos:
 
-- **Módulo 2: Programação Orientada a Objetos**  
-  [Projeto 1 - Sistema de Biblioteca](https://linktoproject3)
+| Módulo | Descrição | Acesso |
+|--------|-----------|--------|
+| **Programação Orientada a Objetos** | Exercícios focados em conceitos de POO com Java | [→ Explorar](./ProgramaçãoOrientadaAObjetos) |
+| **Padrões de Projetos** | Implementações de padrões de design comuns | [→ Explorar](./PadraoDeProjetos) |
+| **Sistemas de Persistência de Dados** | Exercícios com bancos de dados e persistência | [→ Explorar](./SistemasDePersistenciaDeDados) |
 
-- **Módulo 3: Trabalhando com APIs**  
-  [Projeto 1 - Consumindo APIs Externas](https://linktoproject4)
+## 🎯 Tópicos Estudados
 
-## Navegando pelos Projetos
-Cada pasta de projeto contém um README seu próprio, onde você pode encontrar instruções sobre como executar e testar o projeto.
+Durante o programa foram explorados os seguintes tópicos:
 
-## Contribuições
-Sinta-se à vontade para abrir issues ou pull requests se você tiver melhorias ou sugestões!  
+- ✅ Fundamentos de Java
+- ✅ Programação Orientada a Objetos (POO)
+- ✅ Padrões de Design
+- ✅ Desenvolvimento de APIs REST com Spring Boot
+- ✅ Práticas de código limpo (Clean Code)
+- ✅ Persistência de dados com JPA/Hibernate
+- ✅ Testes unitários com JUnit
+
+## 💻 Tecnologias Utilizadas
+
+- **Linguagem**: Java
+- **Frameworks**: Spring Boot
+- **Gerenciamento de Dependências**: Maven
+- **Testes**: JUnit
+- **Controle de Versão**: Git & GitHub
+
+## 🚀 Como Usar este Repositório
+
+1. Cada pasta principal representa um módulo específico do treinamento
+2. Dentro de cada módulo, você encontrará exercícios numerados ou projetos específicos
+3. Cada projeto contém um README.md explicando sua funcionalidade
+4. Clique nos links acima para explorar cada módulo em detalhes
+
+## 📖 Propósito
+
+Este repositório existe para documentar o progresso técnico durante o programa Raro Academy e servir como portfólio dos conhecimentos adquiridos em desenvolvimento backend com Java.
+
+---
+
+**Desenvolvido por**: Kauan Motta  
+**Última atualização**: 16/03/2026
